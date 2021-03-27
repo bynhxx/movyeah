@@ -1,0 +1,86 @@
+{
+    "movies": [
+        {   
+            "id": 1,
+            "name": "Freaky Friday", 
+            "year": 2003, 
+            "director": "Mark Waters", 
+            "starring": ["Lindsay Lohan", "Jamie Lee Cutis", "Chad Michael Murray"],
+            "img": "https://xl.movieposterdb.com/10_10/2003/322330/xl_322330_cafb0d45.jpg",
+            "info": "Elit in culpa sint deserunt eu. Amet reprehenderit ad nulla voluptate excepteur occaecat eu Lorem occaecat ipsum qui. Ipsum et tempor exercitation laborum ad ipsum aute laborum. Minim occaecat dolor duis occaecat laborum aliqua. Aliquip dolor adipisicing Lorem irure occaecat consequat fugiat."
+        },
+        {
+            "id": 2,
+            "name": "Titanic", 
+            "year": 1998, 
+            "director": "James Cameron", 
+            "starring": ["Leonardo Di Caprio", "Kate Winslet", "Billy Zane"],
+            "img": "https://xl.movieposterdb.com/11_10/1997/120338/xl_120338_c9b5db12.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        },
+        {
+            "id": 3,
+            "name": "House Of Wax", 
+            "year": 2005, 
+            "director": "Jaume Collet-Serra", 
+            "starring": ["Elisha Cuthbert", "Paris Hilton", "Chad Michael Murray"],
+            "img": "https://xl.movieposterdb.com/07_10/2005/397065/xl_397065_c559e817.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        }, 
+        {   
+            "id": 4,
+            "name": "Orphan", 
+            "year": 2009, 
+            "director": "Jaume Collet-Serra", 
+            "starring": ["Isabelle Fuhrman", "Vera Farmiga", "Peter Sarsgaard"],
+            "img": "https://xl.movieposterdb.com/09_07/2009/1148204/xl_1148204_7382c7d6.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        },
+        {   
+            "id": 5,
+            "name": "Juno", 
+            "year": 2008, 
+            "director": "Jason Reitman", 
+            "starring": ["Elliot Page", "Michael Cera", "Jenifer Garner"],
+            "img": "https://xl.movieposterdb.com/08_02/2007/467406/xl_467406_7bb4eab7.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        }, 
+        {   
+            "id": 6,
+            "name": "The Perks of Being an Wallflower", 
+            "year": 2012, 
+            "director": "Stephen Chbosky", 
+            "starring": ["Emma Watson", "Logan Lerman", "Ezra Miller"],
+            "img": "https://xl.movieposterdb.com/13_01/2012/1659337/xl_1659337_39d0615a.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        }, 
+        {   
+            "id": 7,
+            "name": "500 Days Of Summer", 
+            "year": 2009, 
+            "director": "Marc Webb", 
+            "starring": ["Zooey Deschanel", "Joseph Gordon-Levitt", "Geofrey Arend"],
+            "img": "https://xl.movieposterdb.com/09_04/2009/1022603/xl_1022603_6249ef19.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        }, 
+        {   
+            "id": 8,
+            "name": "Her", 
+            "year": 2013, 
+            "director": "Spike Jonze", 
+            "starring": ["Joaquin Phoenix", "Amy Adams", "Scarlet Johansson"],
+            "img": "https://xl.movieposterdb.com/13_11/2013/1798709/xl_1798709_48f9f547.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        }, 
+        {   
+            "id": 9,
+            "name": "Black Swan", 
+            "year": 2010, 
+            "director": "Darren Aronofsky", 
+            "starring": ["Natalie Portman", "Mila Kunis", "Vicent Cassel"],
+            "img": "https://xl.movieposterdb.com/10_09/2010/947798/xl_947798_f9a08ddf.jpg",
+            "info": "Incididunt voluptate magna eiusmod in cillum ullamco ea occaecat labore sit cillum est. Excepteur eu proident do aliquip aliquip id qui commodo. Nulla et esse aliquip in Lorem nisi do Lorem nisi eu deserunt ex duis esse."
+        }
+    ]
+}
+
